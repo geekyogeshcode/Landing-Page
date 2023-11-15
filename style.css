@@ -49,6 +49,7 @@ nav .navTwo button{
     background-color: #DF7D54;
     color: #fff;
     border-radius: 5px;
+    cursor:pointer;
 }
 
 .content{
@@ -89,6 +90,7 @@ nav .navTwo button{
     border-radius: 10px;
     font-weight: 700;
     background-color: #DF7D54;
+    cursor:pointer;
 }
 
 
